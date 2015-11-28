@@ -1,1 +1,3 @@
-First line in the documenat
+First line in the document
+
+This is a new line
